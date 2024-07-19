@@ -15,4 +15,4 @@ Let’s build something great together!
 >
 > You can find my most recent resume at [abmetz.github.io/resume](https://abmetz.github.io/resume).
 >
-> If you are interested in working with me, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/andrew-metzger).
+> If you are interested in working with me, please feel free to reach out to me via [Email](mailto:abmetz@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/andrew-metzger).
