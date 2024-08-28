@@ -1,10 +1,10 @@
 ## :wave: Hi there!
 
-With over 20 years of experience, I specialize in developing high-quality software and designing technical solutions for complex problems. My expertise includes C#, Golang, Python, JavaScript, and TypeScript. I build shared libraries and tools, high-performance APIs, automate processes, and create AWS solutions that optimize cost, performance, security, scalability, and reliability.
+With over 20 years of experience, I specialize in developing high-quality software and designing technical solutions for complex problems. My expertise includes C#, Golang, Python, JavaScript, and TypeScript. I build shared libraries and tools, high-performance APIs, automated processes, and create AWS solutions that optimize cost, performance, security, scalability, and reliability.
 
 I work well with distributed remote teams and value openness, teamwork, and pragmatic best practices. Experienced in Agile frameworks like Scrum, Kanban, and XP, I prefer a “low overhead” Agile approach.
 
-I thrive on hands-on learning and creating proof-of-concept solutions. Mentoring, sharing knowledge, and continuous personal and professional growth are my passions.
+I enjoy hands-on learning and creating proof-of-concept solutions. I find fulfillment in mentoring, sharing knowledge, and continuous personal and professional growth.
 
 Let’s build something great together!
 
