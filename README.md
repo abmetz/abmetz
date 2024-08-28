@@ -1,12 +1,10 @@
 ## :wave: Hi there!
 
-I have over 20 years of experience in software development, technical leadership, and architectural design. I have been privileged enough to design, implement, and contribute to many successful solutions for complex and challenging business problems, many of which are still in production today.
+With over 20 years of experience, I specialize in developing high-quality software and designing technical solutions for complex problems. My expertise includes C#, Golang, Python, JavaScript, and TypeScript. I build shared libraries and tools, high-performance APIs, automate processes, and create AWS solutions that optimize cost, performance, security, scalability, and reliability.
 
-My technical leadership, architecture skills, and pragmatic approach have driven innovation, enhanced development methodologies, improved developer experience, and ensured high-quality solutions in production and beyond.
+I work well with distributed remote teams and value openness, teamwork, and pragmatic best practices. Experienced in Agile frameworks like Scrum, Kanban, and XP, I prefer a “low overhead” Agile approach.
 
-I have worked in partnership with teams around the globe. I value openness, teamwork, collaboration, and the application of best practices, when reasonable. I have experience with Agile frameworks such as Scrum and Kanban but prefer a more pure “low overhead” Agile environment. I am adept at building AWS solutions that optimize cost-effectiveness, performance, security, scalability, reliability, and observability.
-
-I learn best by doing and enjoy creating proof-of-concept solutions to explore how things might (or might not) work out. I find fulfillment in mentoring, sharing knowledge, and pursuing continuous growth both personally and professionally.
+I thrive on hands-on learning and creating proof-of-concept solutions. Mentoring, sharing knowledge, and continuous personal and professional growth are my passions.
 
 Let’s build something great together!
 
