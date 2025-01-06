@@ -1,12 +1,8 @@
 ## :wave: Hi there!
 
-With over 20 years of experience, I specialize in developing high-quality software and designing technical solutions for complex problems. My expertise includes C#, Golang, Python, JavaScript, and TypeScript. I build shared libraries and tools, high-performance APIs, automated processes, and create AWS solutions that optimize cost, performance, security, scalability, and reliability.
+I’m an experienced Software Engineer and Architect with a proven history of designing and building scalable systems, microservices, and AWS cloud-native applications while modernizing development practices. Proficient in C# and Go, along with a variety of other languages, I consistently deliver secure, high-quality solutions that drive business success.
 
-I work well with distributed remote teams and value openness, teamwork, and pragmatic best practices. Experienced in Agile frameworks like Scrum, Kanban, and XP, I prefer a “low overhead” Agile approach.
-
-I enjoy hands-on learning and creating proof-of-concept solutions. I find fulfillment in mentoring, sharing knowledge, and continuous personal and professional growth.
-
-Let’s build something great together!
+Specializing in backend development, high-performance APIs, event-driven systems, process automation, shared libraries and tools, DevSecOps, and AWS architecture, I also bring some experience in full-stack development. With a collaborative mindset and a passion for mentoring, I’m dedicated to creating practical, impactful solutions. I’m eager to contribute my skills to innovative projects that deliver meaningful value.
 
 > [!IMPORTANT]  
 > ### I'm currently looking for new opportunities.
